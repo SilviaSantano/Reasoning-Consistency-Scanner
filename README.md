@@ -1,6 +1,6 @@
 # Reasoning Consistency Scanner for InspectScout
 
-This project builds a **reasoning consistency scanner** for [InspectScout](https://github.com/meridian-labs/inspectscout) that detects transcripts where a model's stated reasoning is decoupled from its final answer: cases where the chain-of-thought does not predict, justify, or connect to the answer the model actually gives.
+This project builds a **reasoning consistency scanner** for [InspectScout](https://meridianlabs-ai.github.io/inspect_scout/) that detects transcripts where a model's stated reasoning is decoupled from its final answer: cases where the chain-of-thought does not predict, justify, or connect to the answer the model actually gives.
 It has been built and validated as a contribution to AI safety evaluation tooling.
 
 Inspect Scout is an Open Source tool for conducting systematic, quantitative transcript analysis. It is built on top Inspect and lets you analyse transcripts (LLM conversations logs) using scanners, which are functions that take a specific input from a transcript, detect patterns and translate it into a legible result. This is a way to transform unstructured data into structured data, which allows researchers to answer questions about AI systems or an evaluation setup in which they operate. As models become more capable and are deployed in more complex settings, the ability to systematically analyse their behaviour through logs will be essential for both capability assessment and safety research.
