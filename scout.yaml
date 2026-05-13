@@ -1,0 +1,3 @@
+transcripts: ./validation
+scans: ./scans
+model: ollama/qwen3:8b
