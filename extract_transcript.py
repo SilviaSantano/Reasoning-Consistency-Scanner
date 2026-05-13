@@ -6,7 +6,7 @@ Reads the inspect_ai JSON log file, iterates through each sample, and for each
 sample creates a JSON file with the reasoning trace, final answer, and benchmark
 label fields ready to be filled in during benchmark construction.'''
 
-LOG_FILE = './logs/[LOG FILE].json'
+LOG_FILE = './preliminary selection json logs/2026-05-12T10-34-17-00-00_instrumentaleval_2jQhhCzFESZ7pjDWDmuTpE.json'
 SOURCE_EVAL = 'InstrumentalEval'
 OUTPUT_PATH = './benchmark_raw/'
 
