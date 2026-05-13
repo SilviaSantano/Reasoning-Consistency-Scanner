@@ -123,6 +123,10 @@ The scanner was validated against the synthetic benchmark before being applied t
 
 RESULTS TBD (currently being processed)
 
+RESULTS FROM PILOT
+<img width="1163" height="513" alt="Screenshot 2026-05-13 at 16 45 54" src="https://github.com/user-attachments/assets/a8c5a7a6-e139-42f9-bf81-c46a2d36db97" />
+
+
 ### 5. Naturalistic test results (TBD)
 
 The validated scanner will be applied to three evals from `inspect_evals` to characterise reasoning inconsistency in naturalistic transcripts across different safety-relevant task types. 
