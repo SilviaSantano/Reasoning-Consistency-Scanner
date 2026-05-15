@@ -4,7 +4,7 @@ import os
 '''Extract transcripts into working files.
 Reads the inspect_ai JSON log file, iterates through each sample, and for each
 sample creates a JSON file with the reasoning trace, final answer, and benchmark
-label fields ready to be filled in during benchmark construction.'''
+label fields ready to be filled in during benchmark construction. The files have a different format than the original log, designed for easy annotation and scanning in InspectScout.'''
 
 LOG_FILE = './logs/[YOUR LOG FILE].json'
 SOURCE_EVAL = 'InstrumentalEval'
