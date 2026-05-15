@@ -219,8 +219,6 @@ __marimo__/
 
 .DS_Store
 
-benchmark_raw/
-ground truth benchmark/
-pilot/
+pilot_tests/
 scans/
 validation/
