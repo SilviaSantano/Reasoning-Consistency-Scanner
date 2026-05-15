@@ -221,4 +221,6 @@ __marimo__/
 
 pilot_tests/
 scans/
+logs/
+views/
 validation/
